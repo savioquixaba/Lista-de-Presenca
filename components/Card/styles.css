@@ -1,0 +1,33 @@
+.card {
+    height: 100%;
+    width: 50%;
+  
+    background: #735bf2;
+    color: #fff;
+  
+    border-radius: 10px;
+    margin-bottom: 20px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+  }
+  
+  .card strong {
+    font-size: 18px;
+  }
+
+  .delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .delete-button:hover {
+    background-color: darkred;
+  }

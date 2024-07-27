@@ -1,0 +1,14 @@
+/* DeleteButton.css */
+.delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .delete-button:hover {
+    background-color: darkred;
+  }
